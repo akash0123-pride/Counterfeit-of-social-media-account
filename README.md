@@ -1,2 +1,2 @@
 # fakeInstagramProfileDetector
-A fake instagram profile detector machine learning created as part of the coursera project network work along
+A fake social media profile detector machine learning created as part of the project network work
